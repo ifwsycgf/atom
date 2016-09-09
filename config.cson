@@ -1,0 +1,37 @@
+"*":
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+    projectHome: "C:\\Users\\CTC\\Documents\\work"
+  editor:
+    fontFamily: "\"consolas\",\"meiryo\""
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 3
+    tabType: "soft"
+  "ex-mode":
+    splitbelow: true
+  "exception-reporting":
+    userId: "f04aad16-a58f-6d10-6a6c-6069406563ec"
+  linter:
+    showErrorPanel: false
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "git-diff": false
+      "git-diffDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "vim-mode":
+    useSmartcaseForSearch: true
+  welcome:
+    showOnStartup: false
+".sphinx.text source.gfm.sphinx":
+  editor:
+    tabLength: 4
